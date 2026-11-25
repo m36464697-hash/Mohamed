@@ -1,0 +1,6 @@
+{
+  "name": "مطور ديف | مركز المطور وصانع المحتوى",
+  "description": "موقع شخصي احترافي للمطورين وصناع المحتوى والألعاب المستقلة لعرض المشاريع والأدوات والتواصل مع المجتمع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
